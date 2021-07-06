@@ -3,9 +3,7 @@ body {
 	padding: 0;
 	font-family: "Montserrat", sans-serif;
 }
-/*
-Banner section start
-*/
+
 .banner-sec {
 	padding: 60px 0;
 }
@@ -52,12 +50,10 @@ Banner section start
 .banner .content .right img {
 	width: 95%;
 }
-/* Banner section end */
 
-/* About section start */
 .about {
 	padding-top: 30px;
-	/* padding: 60px 0; */
+
 	background-image: url(../images/about-bg.png);
 	background-position: center;
 	background-repeat: no-repeat;
@@ -92,9 +88,7 @@ Banner section start
 	font-weight: 400;
 	line-height: 30px;
 }
-/* About section end */
 
-/* Recipies section start */
 .recipie {
 	padding: 60px 0;
 }
@@ -140,9 +134,7 @@ Banner section start
 .recipie .recipie-cont .recipie-cmn p {
 	line-height: 27px;
 }
-/* Recipies section end */
 
-/* Footer section start */
 footer{
   padding: 50px 0 90px;
   background-color: #0B0D17;
@@ -163,4 +155,4 @@ footer p{
   font-weight: 400;
   color: #fff;
 }
-/* Footer section end */
+
